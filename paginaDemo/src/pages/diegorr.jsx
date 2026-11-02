@@ -18,6 +18,13 @@ function MiComponente() {
           <p>Este contenido se muestra condicionalmente.</p>
         </div>
       )}
+
+
+
+
+
+
+      <h5>hola gentesita (joni)</h5>
     </div>
   );
 }
