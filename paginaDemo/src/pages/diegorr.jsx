@@ -32,6 +32,12 @@ function MiComponente() {
       <h3>
         COCHAYUYO (Esteban Rojas)
       </h3>
+
+      <h3>
+        
+        Hola
+
+      </h3>
     </div>
   );
 }
