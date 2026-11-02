@@ -19,12 +19,9 @@ function MiComponente() {
         </div>
       )}
 
-
-
-
-
-
-      <h5>hola gentesita (joni)</h5>
+      <h3>
+        Mi parrafo funciona de esta manera :::....(Diego Robles)
+      </h3>
     </div>
   );
 }
