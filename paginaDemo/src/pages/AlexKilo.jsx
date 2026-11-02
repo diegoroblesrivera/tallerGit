@@ -1,6 +1,5 @@
 import React from 'react';
-// Importa la imagen local desde tu carpeta del proyecto
-import gtaImage from './assets/gta6.jpg'; 
+import gtaImage from '../images/gta6.png';
 
 export default function GTA6Simple() {
   return (
