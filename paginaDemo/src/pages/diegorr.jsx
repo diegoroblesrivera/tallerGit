@@ -32,6 +32,7 @@ function MiComponente() {
       <h3>
         COCHAYUYO (Esteban Rojas)
       </h3>
+      <h3>El humano que se enfrento a los dioses 👺:::...(Oswel Andrade)</h3>
 
 
       <h5>hola genteeee (joni)</h5>
