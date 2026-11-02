@@ -33,11 +33,16 @@ function MiComponente() {
         COCHAYUYO (Esteban Rojas)
       </h3>
 
+<<<<<<< HEAD
       <h3>
         
         Hola
 
       </h3>
+=======
+
+      <h5>hola genteeee (joni)</h5>
+>>>>>>> 8054f0f2d05cb6e2aaa5bc7ac7b794f5d6b25c6b
     </div>
   );
 }
