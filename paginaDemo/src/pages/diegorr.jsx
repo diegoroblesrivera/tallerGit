@@ -22,6 +22,7 @@ function MiComponente() {
       <h3>
         Mi parrafo funciona de esta manera :::....(Diego Robles)
         Mi parrafo funciona de esta manera :::....(Javier Verdugo)
+	Mi parrafo nuevo Jeff Jeff Jeff ola ola ola
         https://vkvideo.ru/video-142354277_456249818
 
       </h3>
@@ -34,16 +35,11 @@ function MiComponente() {
       </h3>
       <h3>El humano que se enfrento a los dioses 👺:::...(Oswel Andrade)</h3>
 
-<<<<<<< HEAD
       <h3>
-        
         Hola
-
       </h3>
-=======
 
       <h5>hola genteeee (joni)</h5>
->>>>>>> 8054f0f2d05cb6e2aaa5bc7ac7b794f5d6b25c6b
     </div>
   );
 }
