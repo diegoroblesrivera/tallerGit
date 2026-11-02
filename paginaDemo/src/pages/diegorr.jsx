@@ -22,6 +22,10 @@ function MiComponente() {
       <h3>
         Mi parrafo funciona de esta manera :::....(Diego Robles)
       </h3>
+
+      <h3>
+        Hola wenas :D (Pedro Araneda)
+      </h3>
     </div>
   );
 }
