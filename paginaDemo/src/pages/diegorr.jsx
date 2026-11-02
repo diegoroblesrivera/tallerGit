@@ -21,6 +21,8 @@ function MiComponente() {
 
       <h3>
         Mi parrafo funciona de esta manera :::....(Diego Robles)
+        Mi parrafo funciona de esta manera :::....(Javier Verdugo)
+
       </h3>
     </div>
   );
