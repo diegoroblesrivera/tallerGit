@@ -29,6 +29,9 @@ function MiComponente() {
       <h3>
         Hola wenas :D (Pedro Araneda)
       </h3>
+      <h3>
+        COCHAYUYO (Esteban Rojas)
+      </h3>
     </div>
   );
 }
