@@ -20,9 +20,8 @@ function MiComponente() {
       )}
 
       <h3>
-        Mi parrafo funciona de esta manera ... (Lucas Canales)
+        Mi parrafo funciona de esta manera :::....(Diego Robles)
       </h3>
-
     </div>
   );
 }
