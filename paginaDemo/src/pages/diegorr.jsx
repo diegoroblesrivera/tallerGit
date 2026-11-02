@@ -40,6 +40,8 @@ function MiComponente() {
       </h3>
 
       <h5>hola genteeee (joni)</h5>
+        Hola(Lucas canales)
+      </h3>
     </div>
   );
 }
