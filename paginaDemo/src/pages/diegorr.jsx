@@ -18,6 +18,10 @@ function MiComponente() {
           <p>Este contenido se muestra condicionalmente.</p>
         </div>
       )}
+
+      <h3>
+        Mi parrafo funciona de esta manera :::....(Diego Robles)
+      </h3>
     </div>
   );
 }
